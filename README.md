@@ -2,7 +2,9 @@
 
 ## This is a simple Todo List application built using vanilla JavaScript, plain HTML, and CSS without any frameworks. The app allows you to add, delete, and mark todos as completed. Additionally, it provides functionality to change the background color of the page. All todos are automatically saved in the browser's local storage, ensuring that your todos persist even after closing the browser.
 
-### Features :
+## LIVE DEMO : https://todo-list-adnanp.netlify.app/
+
+## Features :
 
     - Add Todo: You can add new todos by typing in the input field and pressing the "Add" button or hitting the Enter key.
 
